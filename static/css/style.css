@@ -1,0 +1,32 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.upload-section {
+    margin: 20px 0;
+    padding: 20px;
+    border: 2px dashed #ccc;
+    border-radius: 5px;
+}
+
+.hidden {
+    display: none;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.deepfake {
+    background-color: #ffebee;
+}
+
+.genuine {
+    background-color: #e8f5e9;
+}
+
